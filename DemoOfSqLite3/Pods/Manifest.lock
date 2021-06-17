@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - LoadingPlaceholderView (0.0.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.0)
+  - LoadingPlaceholderView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - LoadingPlaceholderView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  LoadingPlaceholderView: e913f5ae2673612d405ce395acca7cedb1bfaa81
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 5fe238e24697a57f38a84317efeaf942baee02f4
+
+COCOAPODS: 1.9.3
